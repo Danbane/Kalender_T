@@ -144,4 +144,22 @@ DESCRIPTION:Jetzt: Urlaubsplanung 2027: erledigt? Sonst jetzt mit T. planen
 TRIGGER:PT0M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:werkstatt-winterreifen-20261029@kalender-t
+DTSTAMP:20261028T173000Z
+DTSTART;TZID=Europe/Berlin:20261029T100000
+DTEND;TZID=Europe/Berlin:20261029T101500
+SUMMARY:Kfz-Werkstatt anrufen: Winterreifen BMW (205/55 R16)
+DESCRIPTION:Termin für neue Winterreifen am 1er BMW vereinbaren. Größe 205/55 R16.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:In 15 Minuten: Kfz-Werkstatt anrufen: Winterreifen BMW (205/55 R16)
+TRIGGER:-PT15M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jetzt: Kfz-Werkstatt anrufen: Winterreifen BMW (205/55 R16)
+TRIGGER:PT0M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
