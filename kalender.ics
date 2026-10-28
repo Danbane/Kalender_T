@@ -114,6 +114,7 @@ DTSTAMP:20261028T144500Z
 DTSTART;TZID=Europe/Berlin:20261207T200000
 DTEND;TZID=Europe/Berlin:20261207T210000
 SUMMARY:Urlaubsplanung 2027 mit T. (du lädst ein)
+DESCRIPTION:Ziel: mindestens dreimal im Jahr gemeinsam wegfahren. Du planst und schlägst Termine und Ziele vor.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:In 15 Minuten: Urlaubsplanung 2027 mit T. (du lädst ein)
@@ -131,6 +132,7 @@ DTSTAMP:20261028T144500Z
 DTSTART;TZID=Europe/Berlin:20270104T200000
 DTEND;TZID=Europe/Berlin:20270104T210000
 SUMMARY:Urlaubsplanung 2027: erledigt? Sonst jetzt mit T. planen
+DESCRIPTION:Ziel: mindestens dreimal im Jahr gemeinsam wegfahren. Du planst und schlägst Termine und Ziele vor.
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:In 15 Minuten: Urlaubsplanung 2027: erledigt? Sonst jetzt mit T. planen
